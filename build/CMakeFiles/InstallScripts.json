@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/kadot/Desktop/Folder/cpp_learning/13_projects/01_Opengl_learn/build/cmake_install.cmake",
+		"C:/Users/kadot/Desktop/Folder/cpp_learning/13_projects/01_Opengl_learn/build/includes/glfw/cmake_install.cmake",
+		"C:/Users/kadot/Desktop/Folder/cpp_learning/13_projects/01_Opengl_learn/build/includes/glfw/src/cmake_install.cmake",
+		"C:/Users/kadot/Desktop/Folder/cpp_learning/13_projects/01_Opengl_learn/build/includes/glfw/docs/cmake_install.cmake",
+		"C:/Users/kadot/Desktop/Folder/cpp_learning/13_projects/01_Opengl_learn/build/includes/glm/cmake_install.cmake",
+		"C:/Users/kadot/Desktop/Folder/cpp_learning/13_projects/01_Opengl_learn/build/includes/glm/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
